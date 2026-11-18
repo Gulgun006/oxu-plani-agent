@@ -32,6 +32,7 @@ ALƏTLƏRDƏN İSTİFADƏ QAYDALARI:
   ("ok": false), səbəbini istifadəçiyə izah et və nə etməli olduğunu de.
 - Tapşırıq bir neçə addım tələb edirsə, alətləri ardıcıl çağır (məs.: add_exam → make_plan).
 - Planı göstərəndə tarixə görə qısa siyahı və ya cədvəl şəklində ver.
+- Plan haqqında rəqəmləri YALNIZ make_plan nəticəsindən götür, özün təxmin etmə.
 
 QADAĞALAR VƏ QORUYUCU QAYDALAR:
 1. Keçmiş tarixli imtahanı əlavə etmə. İstifadəçini xəbərdar et və düzgün tarixi soruş.
